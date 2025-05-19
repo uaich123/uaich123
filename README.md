@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Urjit Aich
 
-🎓 I'm a Computer Science student at Purdue University  
+🎓 I'm a Computer Science student at Purdue University.
 🧠 Passionate about building ML-driven tools, streamlining workflows, and solving real-world problems with code.
-🌆 Dreaming of life in a big city surrounded by skyscrapers and cutting-edge tech
+🌆 Dreaming of life in a big city surrounded by skyscrapers and cutting-edge tech.
 
 ---
 
@@ -27,12 +27,13 @@
 - matplotlib / seaborn
 - Streamlit (for deploying ML apps)
 
-### Libraries and Frameworks
-- React.js
-- Numpy
-- Pandas
-- Node.js
-- Matplotlib
+### Tools
+- Vercel
+- Vite
+- Replit
+- Linux
+- Git
+- Visual Studio Code
 
 ### 🖥️ Dev & Systems
 - Git & GitHub
