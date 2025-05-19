@@ -51,10 +51,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=uaich123&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- 📨 Email: youremail@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/urjit-aich)
+- 📨 Email: code.urjit@protonmail.com
