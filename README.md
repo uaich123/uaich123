@@ -24,21 +24,18 @@
 - R
 
 ### 🧠 Machine Learning / Data
-- scikit-learn
-- pandas & NumPy
-- matplotlib / seaborn
+- Scikit-learn
+- Pandas and NumPy
+- Matplotlib and Seaborn
 - Streamlit (for deploying ML apps)
 
 ### Tools
 - Vercel
 - Vite
 - Replit
-- Linux
-- Git
-- Visual Studio Code
 
 ### 🖥️ Dev & Systems
-- Git & GitHub
+- Git and GitHub
 - VS Code
 - Linux terminal
 - Virtual environments
