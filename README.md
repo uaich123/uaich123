@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hey, I'm Urjit Aich
 
-<!--
-**uaich123/uaich123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at Purdue University  
+🧠 Passionate about building ML-driven tools, streamlining workflows, and solving real-world problems with code.
+🌆 Dreaming of life in a big city surrounded by skyscrapers and cutting-edge tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Frameworks I Work With
+
+### 💻 Languages
+- Python
+- C
+- C++
+- Java
+- JavaScript
+- Typescript
+- SQL
+- Bash
+- HTML
+- CSS
+- R
+
+### 🧠 Machine Learning / Data
+- scikit-learn
+- pandas & NumPy
+- matplotlib / seaborn
+- Streamlit (for deploying ML apps)
+
+### Libraries and Frameworks
+- React.js
+- Numpy
+- Pandas
+- Node.js
+- Matplotlib
+
+### 🖥️ Dev & Systems
+- Git & GitHub
+- VS Code
+- Linux terminal
+- Virtual environments
+- Jupyter / Google Colab
+
+---
+
+## 🚀 Projects I'm Proud Of
+- **🎯 Asteroid Hazard Classifier** — Predicts whether an asteroid is potentially hazardous using scikit-learn + Streamlit
+- **🌍 Global Tuition Explorer** — An ML web app for exploring international education costs using real datasets
+- **🔬 Research Automation Tool** — NLP pipeline for analyzing labor and AI trends in academic literature
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- 📨 Email: youremail@example.com
