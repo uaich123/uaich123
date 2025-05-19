@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Urjit Aich
 
-🎓 I'm a Computer Science student at Purdue University.
-🧠 Passionate about building ML-driven tools, streamlining workflows, and solving real-world problems with code.
+🎓 I'm a Computer Science student at Purdue University.\n
+🧠 Passionate about building ML-driven tools, streamlining workflows, and solving real-world problems with code.\n
 🌆 Dreaming of life in a big city surrounded by skyscrapers and cutting-edge tech.
 
 ---
