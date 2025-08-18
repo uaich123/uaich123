@@ -56,5 +56,5 @@
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/urjit-aich)
+- 💼 [LinkedIn](https://www.linkedin.com/in/urjit-aich/)
 - 📨 Email: code.urjit@protonmail.com
